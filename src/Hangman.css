@@ -53,6 +53,10 @@
   border-radius: 5px;
   padding-top: 4px;
 }
+.Hangman .restart {
+  display: block;
+  width: 90px;
+}
 
 .Hangman button:hover {
   background-color: #ff9800;
