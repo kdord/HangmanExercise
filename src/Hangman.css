@@ -17,7 +17,14 @@
   margin-bottom: 0.1em;
   margin-top: 0;
 }
+.Hangman p {
+  margin: 0 auto;
+}
 
+.Hangman .lose {
+  font-size: 2rem;
+  margin-top: 35px;
+}
 .Hangman-word {
   letter-spacing: 1em;
   margin: 0.4em -1em 0.2em 0;
