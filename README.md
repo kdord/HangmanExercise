@@ -16,6 +16,6 @@
     - **handleGuess:** handle a guessed letter, add to _guessed_ array, if this letter isn`t in the answer, increase _nWrong_ guesses
     - **reset:** choose new answer from array, create new Set _guessed_, set nWrong:0
 
-![Hangman1](./public/hangman1)  
-![Hangman2](./public/hangman2)  
-![Hangman3](./public/hangman3)
+![Hangman1](./public/hangman1.png)  
+![Hangman2](./public/hangman2.png)  
+![Hangman3](./public/hangman3.png)
